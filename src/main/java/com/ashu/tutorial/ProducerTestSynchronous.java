@@ -18,7 +18,7 @@ performance, and as a result, synchronous sends are usually not used in producti
 public class ProducerTestSynchronous {
     public static void main(String[] args) {
         Properties kafkaProps = new Properties();
-        kafkaProps.put("bootstrap.servers", "localhost:909");
+        kafkaProps.put("bootstrap.servers", "localhost:9092");
         kafkaProps.put("key.serializer", "org.apache.kafka.common.serialization.StringSerializer");
         kafkaProps.put("value.serializer", "org.apache.kafka.common.serialization.StringSerializer");
 

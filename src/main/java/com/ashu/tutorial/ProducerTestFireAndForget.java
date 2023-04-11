@@ -14,7 +14,7 @@ get any information or exceptions about this.
 public class ProducerTestFireAndForget {
     public static void main(String[] args) {
         Properties kafkaProps = new Properties();
-        kafkaProps.put("bootstrap.servers", "localhost:909");
+        kafkaProps.put("bootstrap.servers", "localhost:9092");
         kafkaProps.put("key.serializer", "org.apache.kafka.common.serialization.StringSerializer");
         kafkaProps.put("value.serializer", "org.apache.kafka.common.serialization.StringSerializer");
 
