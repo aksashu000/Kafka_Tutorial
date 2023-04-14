@@ -1,0 +1,10 @@
+{
+  "type": "record",
+  "name": "Customer",
+  "namespace": "customerManagement.avro",
+  "fields": [
+    {"name": "id", "type": "int"},
+    {"name": "name", "type": "string"},
+    {"name": "email", "type": ["null", "string"], "default": null}
+  ]
+}

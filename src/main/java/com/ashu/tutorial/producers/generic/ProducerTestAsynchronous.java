@@ -1,4 +1,4 @@
-package com.ashu.tutorial;
+package com.ashu.tutorial.producers.generic;
 
 import org.apache.kafka.clients.producer.*;
 
