@@ -44,6 +44,8 @@ This project will help the beginners learn Kafka with ease.
 
 [Part-21 (_**Stream Processing Design Patterns - 2**_)](https://www.linkedin.com/posts/ashutosh-kumar-852646165_ashutoshteacheskafka-data-streaming-activity-7069654075402842112-MrCe?utm_source=share&utm_medium=member_desktop)
 
+[Part-22 (_**Stream Processing Design Patterns - 3**_)](https://www.linkedin.com/posts/ashutosh-kumar-852646165_ashutoshteacheskafka-data-streaming-activity-7081616883350732801-G2Mh?utm_source=share&utm_medium=member_desktop)
+
 
 Quick reference to all the Kafka nuggets:
 https://www.linkedin.com/feed/hashtag/ashutoshteacheskafka/
