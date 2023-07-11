@@ -50,6 +50,8 @@ This project will help the beginners learn Kafka with ease.
 
 [Part-24 (_**Encryption in Kafka**_)](https://www.linkedin.com/posts/ashutosh-kumar-852646165_data-streaming-dataengineering-activity-7083839150801502208-RahQ?utm_source=share&utm_medium=member_desktop)
 
+[Part-25 (_**Stream Processing Design Patterns - 4**_)](https://www.linkedin.com/posts/ashutosh-kumar-852646165_data-streaming-dataengineering-activity-7084541174945906689-HfHI?utm_source=share&utm_medium=member_desktop)
+
 
 Quick reference to all the Kafka nuggets:
 https://www.linkedin.com/feed/hashtag/ashutoshteacheskafka/
