@@ -52,6 +52,8 @@ This project will help the beginners learn Kafka with ease.
 
 [Part-25 (_**Stream Processing Design Patterns - 4**_)](https://www.linkedin.com/posts/ashutosh-kumar-852646165_data-streaming-dataengineering-activity-7084541174945906689-HfHI?utm_source=share&utm_medium=member_desktop)
 
+[Part-26 (_**Kafka Connect Vs Producer/Consumer Clients**_)](https://www.linkedin.com/posts/ashutosh-kumar-852646165_ashutoshteacheskafka-data-streaming-activity-7084903874699952128-ftWv?utm_source=share&utm_medium=member_desktop)
+
 
 Quick reference to all the Kafka nuggets:
 https://www.linkedin.com/feed/hashtag/ashutoshteacheskafka/
