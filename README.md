@@ -56,6 +56,8 @@ This project will help the beginners learn Kafka with ease.
 
 [Part-27 (_**Kafka Replication Factor**_)](https://www.linkedin.com/posts/ashutosh-kumar-852646165_ashutoshteacheskafka-data-streaming-activity-7094230413140758529-ycsP?utm_source=share&utm_medium=member_desktop)
 
+[Part-28 (_**In Sync Replicas (ISR)**_)](https://www.linkedin.com/posts/ashutosh-kumar-852646165_ashutoshteacheskafka-data-streaming-activity-7094714134088335360-JVhw?utm_source=share&utm_medium=member_desktop)
+
 
 Quick reference to all the Kafka nuggets:
 https://www.linkedin.com/feed/hashtag/ashutoshteacheskafka/
