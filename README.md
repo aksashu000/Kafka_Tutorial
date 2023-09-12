@@ -60,5 +60,7 @@ This project will help the beginners learn Kafka with ease.
 
 [Part-29 (_**Zero Copy Principle**_)](https://www.linkedin.com/posts/ashutosh-kumar-852646165_ashutoshteacheskafka-data-streaming-activity-7105044447893061632-cjia?utm_source=share&utm_medium=member_desktop)
 
+[Part-30 (_**Sequential Input/Output**_)](https://www.linkedin.com/posts/ashutosh-kumar-852646165_ashutoshteacheskafka-data-streaming-activity-7105406834533957632-g5G-?utm_source=share&utm_medium=member_desktop)
+
 Quick reference to all the Kafka nuggets:
 https://www.linkedin.com/feed/hashtag/ashutoshteacheskafka/
